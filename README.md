@@ -16,6 +16,6 @@ The time we greeted you.
 
 ## Example usage
 
-uses: alfreddobradi/actions-tutorial@v1.0.0
+uses: alfreddobradi/actions-tutorial@v1.0.2
 with:
   who-to-greet: 'Mona the Octocat'
